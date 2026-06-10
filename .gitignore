@@ -1,0 +1,14 @@
+# Entorno virtual de Python
+venv/
+.venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Configuración del token del dispositivo (¡No subir a Git!)
+python_serial/device_config.json
+
+# IDEs
+.vscode/
